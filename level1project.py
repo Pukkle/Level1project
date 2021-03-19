@@ -13,7 +13,7 @@ print("On the fifth game they scored {} points".format(fifth_match))
 print("In total they scored {} points".format(total_points))
 print("")
 
-#Gift Card
+#Gift Cards
 gift_card = 50
 skin = 10
 weapon = 10
